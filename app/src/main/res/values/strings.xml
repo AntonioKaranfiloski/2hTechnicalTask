@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">2h</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_ask">Ask</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_item_1">Menu Item 1</string>
+    <string name="menu_item_2">Menu Item 2</string>
+    <string name="menu_item_3">Menu Item 3</string>
+    <string name="menu_item_4">Menu Item 4</string>
+
+</resources>
